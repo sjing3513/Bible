@@ -3,7 +3,7 @@
   "content": [
     {
       "language": "en",
-      "en_old": [
+      "old_testament": [
         {
           "name": "en_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -25,7 +25,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "en_new": [
+      "new_testament": [
         {
           "name": "en_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -46,7 +46,7 @@
     },
     {
       "language": "ar",
-      "ar_old": [
+      "old_testament": [
         {
           "name": "ar_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -68,7 +68,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "ar_new": [
+      "new_testament": [
         {
           "name": "ar_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -89,7 +89,7 @@
     },
     {
       "language": "es",
-      "es_old": [
+      "old_testament": [
         {
           "name": "es_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -111,7 +111,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "es_new": [
+      "new_testament": [
         {
           "name": "es_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -132,7 +132,7 @@
     },
     {
       "language": "fr",
-      "fr_old": [
+      "old_testament": [
         {
           "name": "fr_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -154,7 +154,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "fr_new": [
+      "new_testament": [
         {
           "name": "fr_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -175,7 +175,7 @@
     },
     {
       "language": "pt",
-      "pt_old": [
+      "old_testament": [
         {
           "name": "pt_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -197,7 +197,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "pt_new": [
+      "new_testament": [
         {
           "name": "pt_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
