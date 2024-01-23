@@ -175,7 +175,7 @@
     },
     {
       "language": "pt",
-      "fr_old": [
+      "pt_old": [
         {
           "name": "pt_old_ecclesiastes.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
@@ -197,7 +197,7 @@
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
         }
       ],
-      "fr_new": [
+      "pt_new": [
         {
           "name": "pt_new_john.json",
           "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
