@@ -1,171 +1,220 @@
 {
   "version": "1.0.0",
-  "languages_en": {
-    "en_old": [
-      {
-        "name": "en_old_ecclesiastes.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_old_songofsolomon.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_old_psalms.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_old_proverbs.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_old_job.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ],
-    "en_new": [
-      {
-        "name": "en_new_john.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_new_matthew.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_new_mark.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "en_new_luke.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ]
-  },
-  "languages_ar": {
-    "ar_old": [
-      {
-        "name": "ar_old_ecclesiastes.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_old_songofsolomon.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_old_psalms.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_old_proverbs.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_old_job.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ],
-    "ar_new": [
-      {
-        "name": "ar_new_john.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_new_matthew.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_new_mark.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "ar_new_luke.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ]
-  },
-  "languages_es": {
-    "es_old": [
-      {
-        "name": "es_old_ecclesiastes.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_old_songofsolomon.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_old_psalms.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_old_proverbs.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_old_job.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ],
-    "es_new": [
-      {
-        "name": "es_new_john.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_new_matthew.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_new_mark.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "es_new_luke.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ]
-  },
-  "languages_fr": {
-    "fr_old": [
-      {
-        "name": "fr_old_ecclesiastes.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_old_songofsolomon.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_old_psalms.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_old_proverbs.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_old_job.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ],
-    "fr_new": [
-      {
-        "name": "fr_new_john.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_new_matthew.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_new_mark.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      },
-      {
-        "name": "fr_new_luke.json",
-        "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
-      }
-    ]
-  }
+  "content": [
+    {
+      "language": "en",
+      "en_old": [
+        {
+          "name": "en_old_ecclesiastes.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_old_songofsolomon.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_old_psalms.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_old_proverbs.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_old_job.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ],
+      "en_new": [
+        {
+          "name": "en_new_john.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_new_matthew.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_new_mark.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "en_new_luke.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "ar_old": [
+        {
+          "name": "ar_old_ecclesiastes.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_old_songofsolomon.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_old_psalms.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_old_proverbs.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_old_job.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ],
+      "ar_new": [
+        {
+          "name": "ar_new_john.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_new_matthew.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_new_mark.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "ar_new_luke.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ]
+    },
+    {
+      "language": "es",
+      "es_old": [
+        {
+          "name": "es_old_ecclesiastes.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_old_songofsolomon.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_old_psalms.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_old_proverbs.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_old_job.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ],
+      "es_new": [
+        {
+          "name": "es_new_john.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_new_matthew.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_new_mark.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "es_new_luke.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "fr_old": [
+        {
+          "name": "fr_old_ecclesiastes.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_old_songofsolomon.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_old_psalms.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_old_proverbs.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_old_job.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ],
+      "fr_new": [
+        {
+          "name": "fr_new_john.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_new_matthew.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_new_mark.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "fr_new_luke.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ]
+    },
+    {
+      "language": "pt",
+      "fr_old": [
+        {
+          "name": "pt_old_ecclesiastes.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_old_songofsolomon.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_old_psalms.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_old_proverbs.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_old_job.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ],
+      "fr_new": [
+        {
+          "name": "pt_new_john.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_new_matthew.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_new_mark.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        },
+        {
+          "name": "pt_new_luke.json",
+          "name_page": "https://raw.githubusercontent.com/sjing3513/Bible/main/gospels_psalms/"
+        }
+      ]
+    }
+  ]
 }
