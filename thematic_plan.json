@@ -9,6 +9,7 @@
           "thematic_type": "Love",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "The Endless Love of God",
               "days_required": 5,
@@ -32,6 +33,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "God's Unfailing Love",
               "days_required": 7,
@@ -61,6 +63,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "Love One Another",
               "days_required": 5,
@@ -84,6 +87,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "Love in Action",
               "days_required": 6,
@@ -110,6 +114,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "The Mystery of Love",
               "days_required": 14,
@@ -160,6 +165,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "The Power of Love",
               "days_required": 12,
@@ -210,6 +216,7 @@
           "thematic_type": "Anxiety",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "Trust in God",
               "days_required": 6,
@@ -236,6 +243,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "Cast Your Cares",
               "days_required": 6,
@@ -262,6 +270,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "Peace in the Storm",
               "days_required": 3,
@@ -279,6 +288,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "Strength in Weakness",
               "days_required": 5,
@@ -302,6 +312,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "God's Promises",
               "days_required": 6,
@@ -334,6 +345,7 @@
           "thematic_type": "Healing",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "Healing Power",
               "days_required": 3,
@@ -351,6 +363,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "Healing Through Faith",
               "days_required": 5,
@@ -374,6 +387,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Restoration in Christ",
               "days_required": 7,
@@ -403,6 +417,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "Healing Promises",
               "days_required": 5,
@@ -432,6 +447,7 @@
           "thematic_type": "Anger",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "Overcoming Anger",
               "days_required": 3,
@@ -449,6 +465,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "Peace in Anger",
               "days_required": 5,
@@ -472,6 +489,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "Controlling Anger",
               "days_required": 4,
@@ -492,6 +510,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "Transforming Anger",
               "days_required": 6,
@@ -518,6 +537,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "Patience Over Anger",
               "days_required": 5,
@@ -541,6 +561,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "Anger and God's Peace",
               "days_required": 8,
@@ -579,6 +600,7 @@
           "thematic_type": "Hope",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "Finding Hope",
               "days_required": 3,
@@ -596,6 +618,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "Hope in Difficult Times",
               "days_required": 4,
@@ -616,6 +639,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "Hope in God's Promises",
               "days_required": 5,
@@ -639,6 +663,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "Living in Hope",
               "days_required": 12,
@@ -683,6 +708,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "Hope in God's Love",
               "days_required": 3,
@@ -706,6 +732,7 @@
           "thematic_type": "Depression",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "Hope in the Darkness",
               "days_required": 3,
@@ -723,6 +750,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "Healing from Within",
               "days_required": 5,
@@ -746,6 +774,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "Strength in Weakness",
               "days_required": 4,
@@ -766,6 +795,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "Peace in Troubled Times",
               "days_required": 6,
@@ -792,6 +822,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "Light in the Darkness",
               "days_required": 12,
@@ -847,6 +878,7 @@
           "thematic_type": "الحب",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "حب الله الأبدي",
               "days_required": 5,
@@ -870,6 +902,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "حب الله الذي لا يفشل",
               "days_required": 7,
@@ -899,6 +932,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "أحبوا بعضكم البعض",
               "days_required": 5,
@@ -922,6 +956,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "الحب في العمل",
               "days_required": 6,
@@ -948,6 +983,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "لغز الحب",
               "days_required": 14,
@@ -998,6 +1034,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "قوة الحب",
               "days_required": 12,
@@ -1048,6 +1085,7 @@
           "thematic_type": "القلق",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "الثقة بالله",
               "days_required": 6,
@@ -1074,6 +1112,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "ألق همك عليه",
               "days_required": 6,
@@ -1100,6 +1139,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "السلام في العاصفة",
               "days_required": 3,
@@ -1117,6 +1157,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "القوة في الضعف",
               "days_required": 5,
@@ -1140,6 +1181,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "وعود الله",
               "days_required": 6,
@@ -1172,6 +1214,7 @@
           "thematic_type": "الشفاء",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "قوة الشفاء",
               "days_required": 3,
@@ -1189,6 +1232,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "الشفاء من خلال الإيمان",
               "days_required": 5,
@@ -1212,6 +1256,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "التجديد في المسيح",
               "days_required": 7,
@@ -1241,6 +1286,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "وعود الشفاء",
               "days_required": 5,
@@ -1270,6 +1316,7 @@
           "thematic_type": "الغضب",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "التغلب على الغضب",
               "days_required": 3,
@@ -1287,6 +1334,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "السلام في الغضب",
               "days_required": 5,
@@ -1310,6 +1358,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "السيطرة على الغضب",
               "days_required": 4,
@@ -1330,6 +1379,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "تحويل الغضب",
               "days_required": 6,
@@ -1356,6 +1406,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "الصبر على الغضب",
               "days_required": 5,
@@ -1379,6 +1430,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "الغضب وسلام الله",
               "days_required": 8,
@@ -1417,6 +1469,7 @@
           "thematic_type": "الأمل",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "العثور على الأمل",
               "days_required": 3,
@@ -1434,6 +1487,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "الأمل في الأوقات الصعبة",
               "days_required": 4,
@@ -1454,6 +1508,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "الأمل في وعود الله",
               "days_required": 5,
@@ -1477,6 +1532,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "العيش بالأمل",
               "days_required": 12,
@@ -1521,6 +1577,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "الأمل في حب الله",
               "days_required": 3,
@@ -1544,6 +1601,7 @@
           "thematic_type": "الاكتئاب",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "الأمل في الظلام",
               "days_required": 3,
@@ -1561,6 +1619,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "الشفاء من الداخل",
               "days_required": 5,
@@ -1584,6 +1643,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "القوة في الضعف",
               "days_required": 4,
@@ -1604,6 +1664,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "السلام في الأوقات العصيبة",
               "days_required": 6,
@@ -1630,6 +1691,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "النور في الظلام",
               "days_required": 12,
@@ -1685,6 +1747,7 @@
           "thematic_type": "Liebe",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "Die endlose Liebe Gottes",
               "days_required": 5,
@@ -1708,6 +1771,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "Gottes unfehlbare Liebe",
               "days_required": 7,
@@ -1737,6 +1801,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "Liebt einander",
               "days_required": 5,
@@ -1760,6 +1825,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "Liebe in Aktion",
               "days_required": 6,
@@ -1786,6 +1852,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "Das Geheimnis der Liebe",
               "days_required": 14,
@@ -1836,6 +1903,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "Die Kraft der Liebe",
               "days_required": 12,
@@ -1886,6 +1954,7 @@
           "thematic_type": "Angst",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "Vertraue auf Gott",
               "days_required": 6,
@@ -1912,6 +1981,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "Wirf deine Sorgen auf Gott",
               "days_required": 6,
@@ -1938,6 +2008,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "Frieden im Sturm",
               "days_required": 3,
@@ -1955,6 +2026,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "Stärke in Schwäche",
               "days_required": 5,
@@ -1978,6 +2050,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "Gottes Versprechen",
               "days_required": 6,
@@ -2010,6 +2083,7 @@
           "thematic_type": "Heilung",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "Heilende Kraft",
               "days_required": 3,
@@ -2027,6 +2101,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "Heilung durch Glauben",
               "days_required": 5,
@@ -2050,6 +2125,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Wiederherstellung in Christus",
               "days_required": 7,
@@ -2079,6 +2155,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "Heilungsversprechen",
               "days_required": 5,
@@ -2108,6 +2185,7 @@
           "thematic_type": "Wut",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "Überwinde Wut",
               "days_required": 3,
@@ -2125,6 +2203,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "Frieden in der Wut",
               "days_required": 5,
@@ -2148,6 +2227,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "Wut kontrollieren",
               "days_required": 4,
@@ -2168,6 +2248,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "Wut in positive Energie umwandeln",
               "days_required": 6,
@@ -2194,6 +2275,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "Geduld über Wut",
               "days_required": 5,
@@ -2217,6 +2299,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "Wut und Gottes Frieden",
               "days_required": 8,
@@ -2255,6 +2338,7 @@
           "thematic_type": "Hoffnung",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "Hoffnung finden",
               "days_required": 3,
@@ -2272,6 +2356,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "Hoffnung in schwierigen Zeiten",
               "days_required": 4,
@@ -2292,6 +2377,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "Hoffnung in Gottes Versprechen",
               "days_required": 5,
@@ -2315,6 +2401,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "In Hoffnung leben",
               "days_required": 12,
@@ -2359,6 +2446,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "Hoffnung in Gottes Liebe",
               "days_required": 3,
@@ -2382,6 +2470,7 @@
           "thematic_type": "Depression",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "Hoffnung in der Dunkelheit",
               "days_required": 3,
@@ -2399,6 +2488,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "Heilung von innen",
               "days_required": 5,
@@ -2422,6 +2512,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "Stärke in Schwäche",
               "days_required": 4,
@@ -2442,6 +2533,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "Frieden in schwierigen Zeiten",
               "days_required": 6,
@@ -2468,6 +2560,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "Licht in der Dunkelheit",
               "days_required": 12,
@@ -2523,6 +2616,7 @@
           "thematic_type": "Amor",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "El Amor Infinito de Dios",
               "days_required": 5,
@@ -2546,6 +2640,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "El Amor Inagotable de Dios",
               "days_required": 7,
@@ -2575,6 +2670,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "Ama a los Demás",
               "days_required": 5,
@@ -2598,6 +2694,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "Amor en Acción",
               "days_required": 6,
@@ -2624,6 +2721,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "El Misterio del Amor",
               "days_required": 14,
@@ -2674,6 +2772,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "El Poder del Amor",
               "days_required": 12,
@@ -2724,6 +2823,7 @@
           "thematic_type": "Ansiedad",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "Confía en Dios",
               "days_required": 6,
@@ -2750,6 +2850,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "Echa tus Cargas",
               "days_required": 6,
@@ -2776,6 +2877,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "Paz en la Tormenta",
               "days_required": 3,
@@ -2793,6 +2895,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "Fortaleza en la Debilidad",
               "days_required": 5,
@@ -2816,6 +2919,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "Las Promesas de Dios",
               "days_required": 6,
@@ -2848,6 +2952,7 @@
           "thematic_type": "Sanación",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "Poder Sanador",
               "days_required": 3,
@@ -2865,6 +2970,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "Sanación a través de la Fe",
               "days_required": 5,
@@ -2888,6 +2994,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Restauración en Cristo",
               "days_required": 7,
@@ -2917,6 +3024,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "Promesas de Sanación",
               "days_required": 5,
@@ -2946,6 +3054,7 @@
           "thematic_type": "Ira",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "Superar la Ira",
               "days_required": 3,
@@ -2963,6 +3072,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "Paz en la Ira",
               "days_required": 5,
@@ -2986,6 +3096,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "Controlar la Ira",
               "days_required": 4,
@@ -3006,6 +3117,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "Transformar la Ira",
               "days_required": 6,
@@ -3032,6 +3144,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "Paciencia sobre la Ira",
               "days_required": 5,
@@ -3055,6 +3168,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "La Ira y la Paz de Dios",
               "days_required": 8,
@@ -3093,6 +3207,7 @@
           "thematic_type": "Esperanza",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "Encontrar Esperanza",
               "days_required": 3,
@@ -3110,6 +3225,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "Esperanza en Tiempos Difíciles",
               "days_required": 4,
@@ -3130,6 +3246,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "Esperanza en las Promesas de Dios",
               "days_required": 5,
@@ -3153,6 +3270,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "Vivir con Esperanza",
               "days_required": 12,
@@ -3197,6 +3315,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "Esperanza en el Amor de Dios",
               "days_required": 3,
@@ -3220,6 +3339,7 @@
           "thematic_type": "Depresión",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "Esperanza en la Oscuridad",
               "days_required": 3,
@@ -3237,6 +3357,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "Sanación desde Adentro",
               "days_required": 5,
@@ -3260,6 +3381,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "Fortaleza en la Debilidad",
               "days_required": 4,
@@ -3280,6 +3402,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "Paz en Tiempos Difíciles",
               "days_required": 6,
@@ -3306,6 +3429,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "Luz en la Oscuridad",
               "days_required": 12,
@@ -3361,6 +3485,7 @@
           "thematic_type": "Amour",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "L'amour éternel de Dieu",
               "days_required": 5,
@@ -3384,6 +3509,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "L'amour infaillible de Dieu",
               "days_required": 7,
@@ -3413,6 +3539,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "Aimez-vous les uns les autres",
               "days_required": 5,
@@ -3436,6 +3563,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "L'amour en action",
               "days_required": 6,
@@ -3462,6 +3590,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "Le mystère de l'amour",
               "days_required": 14,
@@ -3512,6 +3641,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "La puissance de l'amour",
               "days_required": 12,
@@ -3562,6 +3692,7 @@
           "thematic_type": "Anxiété",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "Confiance en Dieu",
               "days_required": 6,
@@ -3588,6 +3719,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "Déposez vos soucis",
               "days_required": 6,
@@ -3614,6 +3746,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "Paix dans la tempête",
               "days_required": 3,
@@ -3631,6 +3764,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "Force dans la faiblesse",
               "days_required": 5,
@@ -3654,6 +3788,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "Les promesses de Dieu",
               "days_required": 6,
@@ -3686,6 +3821,7 @@
           "thematic_type": "Guérison",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "Puissance de guérison",
               "days_required": 3,
@@ -3703,6 +3839,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "Guérison par la foi",
               "days_required": 5,
@@ -3726,6 +3863,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Restauration en Christ",
               "days_required": 7,
@@ -3755,6 +3893,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "Promesses de guérison",
               "days_required": 5,
@@ -3784,6 +3923,7 @@
           "thematic_type": "Colère",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "Surmonter la colère",
               "days_required": 3,
@@ -3801,6 +3941,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "Paix dans la colère",
               "days_required": 5,
@@ -3824,6 +3965,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "Contrôler la colère",
               "days_required": 4,
@@ -3844,6 +3986,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "Transformer la colère",
               "days_required": 6,
@@ -3870,6 +4013,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "Patience plutôt que colère",
               "days_required": 5,
@@ -3893,6 +4037,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "Colère et paix de Dieu",
               "days_required": 8,
@@ -3931,6 +4076,7 @@
           "thematic_type": "Espoir",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "Trouver l'espoir",
               "days_required": 3,
@@ -3948,6 +4094,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "Espoir en temps difficiles",
               "days_required": 4,
@@ -3968,6 +4115,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "Espoir dans les promesses de Dieu",
               "days_required": 5,
@@ -3991,6 +4139,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "Vivre dans l'espoir",
               "days_required": 12,
@@ -4035,6 +4184,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "Espoir dans l'amour de Dieu",
               "days_required": 3,
@@ -4058,6 +4208,7 @@
           "thematic_type": "Dépression",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "Espoir dans l'obscurité",
               "days_required": 3,
@@ -4075,6 +4226,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "Guérison de l'intérieur",
               "days_required": 5,
@@ -4098,6 +4250,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "Force dans la faiblesse",
               "days_required": 4,
@@ -4118,6 +4271,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "Paix en temps troublés",
               "days_required": 6,
@@ -4144,6 +4298,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "Lumière dans l'obscurité",
               "days_required": 12,
@@ -4199,6 +4354,7 @@
           "thematic_type": "愛",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "神の無限の愛",
               "days_required": 5,
@@ -4221,6 +4377,7 @@
                 }
               ]},
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "神の変わらぬ愛",
               "days_required": 7,
@@ -4250,6 +4407,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "互いに愛し合う",
               "days_required": 5,
@@ -4273,6 +4431,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "行動する愛",
               "days_required": 6,
@@ -4299,6 +4458,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "愛の神秘",
               "days_required": 14,
@@ -4349,6 +4509,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "愛の力",
               "days_required": 12,
@@ -4399,6 +4560,7 @@
           "thematic_type": "不安",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "神への信頼",
               "days_required": 6,
@@ -4425,6 +4587,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "心配事を神に委ねる",
               "days_required": 6,
@@ -4451,6 +4614,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "嵐の中の平和",
               "days_required": 3,
@@ -4468,6 +4632,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "弱さの中の強さ",
               "days_required": 5,
@@ -4491,6 +4656,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "神の約束",
               "days_required": 6,
@@ -4523,6 +4689,7 @@
           "thematic_type": "癒し",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "癒しの力",
               "days_required": 3,
@@ -4540,6 +4707,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "信仰による癒し",
               "days_required": 5,
@@ -4563,6 +4731,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "キリストにおける回復",
               "days_required": 7,
@@ -4592,6 +4761,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "癒しの約束",
               "days_required": 5,
@@ -4621,6 +4791,7 @@
           "thematic_type": "怒り",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "怒りを克服する",
               "days_required": 3,
@@ -4638,6 +4809,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "怒りの中の平和",
               "days_required": 5,
@@ -4661,6 +4833,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "怒りを制御する",
               "days_required": 4,
@@ -4681,6 +4854,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "怒りを変える",
               "days_required": 6,
@@ -4707,6 +4881,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "怒りよりも忍耐",
               "days_required": 5,
@@ -4730,6 +4905,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "怒りと神の平和",
               "days_required": 8,
@@ -4768,6 +4944,7 @@
           "thematic_type": "希望",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "希望を見つける",
               "days_required": 3,
@@ -4785,6 +4962,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "困難な時の希望",
               "days_required": 4,
@@ -4805,6 +4983,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "神の約束にある希望",
               "days_required": 5,
@@ -4828,6 +5007,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "希望に生きる",
               "days_required": 12,
@@ -4872,6 +5052,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "神の愛にある希望",
               "days_required": 3,
@@ -4895,6 +5076,7 @@
           "thematic_type": "うつ病",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "闇の中の希望",
               "days_required": 3,
@@ -4912,6 +5094,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "内からの癒し",
               "days_required": 5,
@@ -4935,6 +5118,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "弱さの中の強さ",
               "days_required": 4,
@@ -4955,6 +5139,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "困難な時の平和",
               "days_required": 6,
@@ -4981,6 +5166,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "闇の中の光",
               "days_required": 12,
@@ -5036,6 +5222,7 @@
           "thematic_type": "Amor",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Endless Love of God.png",
               "thematic_content_id": 1,
               "type_title": "O Amor Infinito de Deus",
               "days_required": 5,
@@ -5059,6 +5246,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/God's Unfailing Love.png",
               "thematic_content_id": 2,
               "type_title": "O Amor Inabalável de Deus",
               "days_required": 7,
@@ -5088,6 +5276,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love One Another.png",
               "thematic_content_id": 3,
               "type_title": "Ame Uns aos Outros",
               "days_required": 5,
@@ -5111,6 +5300,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/Love in Action.png",
               "thematic_content_id": 4,
               "type_title": "Amor em Ação",
               "days_required": 6,
@@ -5137,6 +5327,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Mystery of Love.png",
               "thematic_content_id": 5,
               "type_title": "O Mistério do Amor",
               "days_required": 14,
@@ -5187,6 +5378,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Love/The Power of Love.png",
               "thematic_content_id": 6,
               "type_title": "O Poder do Amor",
               "days_required": 12,
@@ -5237,6 +5429,7 @@
           "thematic_type": "Ansiedade",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Trust in God.png",
               "thematic_content_id": 7,
               "type_title": "Confie em Deus",
               "days_required": 6,
@@ -5263,6 +5456,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Cast Your Cares.png",
               "thematic_content_id": 8,
               "type_title": "Lance Suas Preocupações",
               "days_required": 6,
@@ -5289,6 +5483,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Peace in the Storm.png",
               "thematic_content_id": 9,
               "type_title": "Paz na Tempestade",
               "days_required": 3,
@@ -5306,6 +5501,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/Strength in Weakness.png",
               "thematic_content_id": 10,
               "type_title": "Força na Fraqueza",
               "days_required": 5,
@@ -5329,6 +5525,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anxiety/God's Promises.png",
               "thematic_content_id": 11,
               "type_title": "Promessas de Deus",
               "days_required": 6,
@@ -5361,6 +5558,7 @@
           "thematic_type": "Cura",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Power.png",
               "thematic_content_id": 12,
               "type_title": "Poder de Cura",
               "days_required": 3,
@@ -5378,6 +5576,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Through Faith.png",
               "thematic_content_id": 13,
               "type_title": "Cura Através da Fé",
               "days_required": 5,
@@ -5401,6 +5600,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Restauração em Cristo",
               "days_required": 7,
@@ -5430,6 +5630,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Promises.png",
               "thematic_content_id": 15,
               "type_title": "Promessas de Cura",
               "days_required": 5,
@@ -5459,6 +5660,7 @@
           "thematic_type": "Raiva",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Overcoming Anger.png",
               "thematic_content_id": 16,
               "type_title": "Superando a Raiva",
               "days_required": 3,
@@ -5476,6 +5678,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Peace in Anger.png",
               "thematic_content_id": 17,
               "type_title": "Paz na Raiva",
               "days_required": 5,
@@ -5499,6 +5702,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Controlling Anger.png",
               "thematic_content_id": 18,
               "type_title": "Controlando a Raiva",
               "days_required": 4,
@@ -5519,6 +5723,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Transforming Anger.png",
               "thematic_content_id": 19,
               "type_title": "Transformando a Raiva",
               "days_required": 6,
@@ -5545,6 +5750,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Patience Over Anger.png",
               "thematic_content_id": 20,
               "type_title": "Paciência em Vez de Raiva",
               "days_required": 5,
@@ -5568,6 +5774,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Anger/Anger and God's Peace.png",
               "thematic_content_id": 21,
               "type_title": "Raiva e a Paz de Deus",
               "days_required": 8,
@@ -5606,6 +5813,7 @@
           "thematic_type": "Esperança",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Finding Hope.png",
               "thematic_content_id": 22,
               "type_title": "Encontrando Esperança",
               "days_required": 3,
@@ -5623,6 +5831,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in Difficult Times.png",
               "thematic_content_id": 23,
               "type_title": "Esperança em Tempos Difíceis",
               "days_required": 4,
@@ -5643,6 +5852,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Promises.png",
               "thematic_content_id": 24,
               "type_title": "Esperança nas Promessas de Deus",
               "days_required": 5,
@@ -5666,6 +5876,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Living in Hope.png",
               "thematic_content_id": 25,
               "type_title": "Vivendo com Esperança",
               "days_required": 12,
@@ -5710,6 +5921,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Hope/Hope in God's Love.png",
               "thematic_content_id": 26,
               "type_title": "Esperança no Amor de Deus",
               "days_required": 3,
@@ -5733,6 +5945,7 @@
           "thematic_type": "Depressão",
           "thematic_type_content": [
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Hope in the Darkness.png",
               "thematic_content_id": 27,
               "type_title": "Esperança na Escuridão",
               "days_required": 3,
@@ -5750,6 +5963,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Healing from Within.png",
               "thematic_content_id": 28,
               "type_title": "Cura de Dentro para Fora",
               "days_required": 5,
@@ -5773,6 +5987,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Strength in Weakness.png",
               "thematic_content_id": 29,
               "type_title": "Força na Fraqueza",
               "days_required": 4,
@@ -5793,6 +6008,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Peace in Troubled Times.png",
               "thematic_content_id": 30,
               "type_title": "Paz em Tempos Difíceis",
               "days_required": 6,
@@ -5819,6 +6035,7 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Depression/Light in the Darkness.png",
               "thematic_content_id": 31,
               "type_title": "Luz na Escuridão",
               "days_required": 12,
