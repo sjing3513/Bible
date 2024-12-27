@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "support_language": [
     {
       "language": "en",
@@ -466,6 +466,39 @@
                 {
                   "chapter_name": "Psalms 147:3;2 Corinthians 4:16;1 John 3:2",
                   "show_chapter_name": "Psalms 147:3;2 Corinthians 4:16;1 John 3:2"
+                }
+              ]
+            },
+            {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "Healing Grace",
+              "days_required": 6,
+              "intro_theme": "God's grace is sufficient to heal all wounds and mend broken hearts. Trust in His infinite mercy and love to bring you through any pain.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "2 Corinthians 12:9;Hebrews 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "1 Peter 5:10;Psalm 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "Isaiah 40:29-31;Romans 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "Psalm 147:3;Matthew 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "Isaiah 57:18-19;2 Timothy 1:7"
                 }
               ]
             },
@@ -1522,6 +1555,39 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "نعمة الشفاء",
+              "days_required": 6,
+              "intro_theme": "نعمة الله كافية لشفاء جميع الجروح وترميم القلوب المكسورة. ثق برحمته وحبه اللامحدود ليخرجك من أي ألم.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "كورنثوس الثانية 12:9;العبرانيين 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "مزمور 73:26;مراثي 3:22-23;متى 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "بطرس الأولى 5:10;مزمور 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "إشعياء 40:29-31;رومية 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "مزمور 147:3;متى 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "إشعياء 57:18-19;تيموثاوس الثانية 1:7"
+                }
+              ]
+            },
+            {
               "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "التجديد في المسيح",
@@ -2574,6 +2640,39 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "Heilende Gnade",
+              "days_required": 6,
+              "intro_theme": "Gottes Gnade ist ausreichend, um alle Wunden zu heilen und gebrochene Herzen zu reparieren. Vertraue auf Seine unendliche Barmherzigkeit und Liebe, um dich durch jeden Schmerz zu führen.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "2. Korinther 12:9;Hebräer 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "Psalm 73:26;Klagelieder 3:22-23;Matthäus 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "1. Petrus 5:10;Psalm 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "Jesaja 40:29-31;Römer 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "Psalm 147:3;Matthäus 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "Jesaja 57:18-19;2. Timotheus 1:7"
+                }
+              ]
+            },
+            {
               "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Wiederherstellung in Christus",
@@ -3617,6 +3716,39 @@
                 {
                   "chapter_name": "Psalms 147:3;2 Corinthians 4:16;1 John 3:2",
                   "show_chapter_name": "Salmo 147:3;2 Corintios 4:16;1 Juan 3:2"
+                }
+              ]
+            },
+            {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "Gracia Sanadora",
+              "days_required": 6,
+              "intro_theme": "La gracia de Dios es suficiente para sanar todas las heridas y reparar corazones rotos. Confía en Su infinita misericordia y amor para llevarte a través de cualquier dolor.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "2 Corintios 12:9;Hebreos 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "Salmos 73:26;Lamentaciones 3:22-23;Mateo 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "1 Pedro 5:10;Salmos 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "Isaías 40:29-31;Romanos 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "Salmos 147:3;Mateo 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "Isaías 57:18-19;2 Timoteo 1:7"
                 }
               ]
             },
@@ -4673,6 +4805,39 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "Grâce Guérissante",
+              "days_required": 6,
+              "intro_theme": "La grâce de Dieu est suffisante pour guérir toutes les blessures et réparer les cœurs brisés. Faites confiance à Sa miséricorde infinie et à Son amour pour vous accompagner dans toute douleur.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "2 Corinthiens 12:9;Hébreux 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "Psaume 73:26;Lamentations 3:22-23;Matthieu 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "1 Pierre 5:10;Psaume 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "Ésaïe 40:29-31;Romains 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "Psaume 147:3;Matthieu 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "Ésaïe 57:18-19;2 Timothée 1:7"
+                }
+              ]
+            },
+            {
               "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "Restauration en Christ",
@@ -5725,6 +5890,39 @@
               ]
             },
             {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "癒しの恵み",
+              "days_required": 6,
+              "intro_theme": "神の恵みは、すべての傷を癒し、壊れた心を修復するのに十分です。どんな痛みでも、無限の慈悲と愛に信頼して乗り越えましょう。",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "コリント人への第二の手紙 12:9;ヘブライ人への手紙 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "詩篇 73:26;哀歌 3:22-23;マタイの福音書 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "ペテロの第一の手紙 5:10;詩篇 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "イザヤ書 40:29-31;ローマ人への手紙 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "詩篇 147:3;マタイの福音書 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "イザヤ書 57:18-19;テモテへの第二の手紙 1:7"
+                }
+              ]
+            },
+            {
               "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Restoration in Christ.png",
               "thematic_content_id": 14,
               "type_title": "キリストにおける回復",
@@ -6773,6 +6971,39 @@
                 {
                   "chapter_name": "Psalms 147:3;2 Corinthians 4:16;1 John 3:2",
                   "show_chapter_name": "Salmo 147:3;2 Coríntios 4:16;1 João 3:2"
+                }
+              ]
+            },
+            {
+              "type_show_icon": "https://raw.githubusercontent.com/sjing3513/Bible/main/thematic_plan_icon/Healing/Healing Grace.png",
+              "thematic_content_id": 32,
+              "type_title": "Graça Curadora",
+              "days_required": 6,
+              "intro_theme": "A graça de Deus é suficiente para curar todas as feridas e restaurar os corações partidos. Confie em Sua infinita misericórdia e amor para superar qualquer dor.",
+              "content_every_day": [
+                {
+                  "chapter_name": "2 Corinthians 12:9;Hebrews 4:16",
+                  "show_chapter_name": "2 Coríntios 12:9;Hebreus 4:16"
+                },
+                {
+                  "chapter_name": "Psalm 73:26;Lamentations 3:22-23;Matthew 9:22",
+                  "show_chapter_name": "Salmos 73:26;Lamentações 3:22-23;Mateus 9:22"
+                },
+                {
+                  "chapter_name": "1 Peter 5:10;Psalm 6:2",
+                  "show_chapter_name": "1 Pedro 5:10;Salmos 6:2"
+                },
+                {
+                  "chapter_name": "Isaiah 40:29-31;Romans 5:3-5",
+                  "show_chapter_name": "Isaías 40:29-31;Romanos 5:3-5"
+                },
+                {
+                  "chapter_name": "Psalm 147:3;Matthew 9:22",
+                  "show_chapter_name": "Salmos 147:3;Mateus 9:22"
+                },
+                {
+                  "chapter_name": "Isaiah 57:18-19;2 Timothy 1:7",
+                  "show_chapter_name": "Isaías 57:18-19;2 Timóteo 1:7"
                 }
               ]
             },
