@@ -1,0 +1,6 @@
+{
+  "total": 90,
+  "version": 1,
+  "base_url": "https://raw.githubusercontent.com/sjing3513/Bible/main/daily_prayer_bg/",
+  "update_time": "2025-11-01"
+}
